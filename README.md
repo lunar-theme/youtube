@@ -39,7 +39,7 @@ Dark mode is **required** for the theme to work.
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/sheeepdev/moontube/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/azure-moon/moontube/issues). 
 
 ## 🌟 Show your support
 
@@ -53,4 +53,4 @@ Colors are changable by editing the variables in the file.
 ## 📩 License
 
 Copyright © 2021 [sheepdev](https://sheepdev.xyz/)<br />
-This project is licensed under the [CC-BY-4.0](https://github.com/sheeepdev/nordtube/blob/main/LICENSE) license.
+This project is licensed under the [CC-BY-4.0](https://github.com/azure-moon/moontube/blob/main/LICENSE) license.
