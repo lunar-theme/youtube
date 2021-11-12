@@ -10,7 +10,7 @@
 
 Dark mode is **required** for the theme to work.
 
-[Click here to install moontube](https://github.com/sheeepdev/nordtube/raw/main/nordtube.user.css)
+[Click here to install moontube](https://github.com/azure-moon/moontube/raw/main/moontube.user.css)
 
 
 ## 🎨 Recommended extensions and styles
