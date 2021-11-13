@@ -26,6 +26,13 @@
     --red: #B10C0C;
 }
 
+@font-face {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans'), url('ProductSans-Regular.woff') format('woff');
+}
+
 html {
     scrollbar-width: none;
 }
