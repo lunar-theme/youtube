@@ -2,6 +2,9 @@
 
 ![[Banner]](https://socialify.git.ci/azure-moon/spacetube/image?description=1&descriptionEditable=spacetube%20is%20a%20youtube%20theme%20inspired%20by%20space%20%F0%9F%9A%80&font=Raleway&language=1&logo=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fdakirby309%2Fsimply-styled%2F256%2FYouTube-icon.png&name=1&owner=1&theme=Dark)
 
+## 🖼️ Preview
+
+![Preview](./img/preview.png)
 
 ## ❗ Prerequisites
 [Stylus browser extension](https://github.com/openstyles/stylus#releases)
