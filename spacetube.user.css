@@ -10,6 +10,8 @@
 @license      CC-BY-4.0
 ==/UserStyle== */
 
+@-moz-document domain('youtube.com') {
+
 :root {
     --bg: #161616;
     --bg-light: #121212;
@@ -1228,4 +1230,5 @@ ytd-button-renderer yt-formatted-string.ytd-button-renderer, tp-yt-paper-button.
 
 .badge-style-type-collection.ytd-badge-supported-renderer, #matching-label.ytd-donation-shelf-renderer {
     color: var(--text-color);
+	}
 }
