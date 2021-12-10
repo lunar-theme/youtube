@@ -38,8 +38,7 @@ Dark mode is **required** for the theme to work.
 * 📧 Email: [me@sheepdev.xyz](mailto:me@sheepdev.xyz)
 * 🐦 Twitter: [@imsheeeep](https://twitter.com/imsheeeep)
 * 💻 GitHub: [@sheeepdev](https://github.com/sheeepdev)
-* 💬 Discord: [sheep#2428](https://discord.com/users/429303151598895106) (Friend requests disabled, DM me elsewhere and ill add you)
-
+* 💬 Discord: [sheep#2428](https://discord.com/users/429303151598895106)
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/lunar-theme/spacetube/issues). 
