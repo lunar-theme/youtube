@@ -1,6 +1,6 @@
 <h1 align="center">spacetube</h1>
 
-![[Banner]](https://socialify.git.ci/azure-moon/spacetube/image?description=1&descriptionEditable=spacetube%20is%20a%20youtube%20theme%20inspired%20by%20space%20%F0%9F%9A%80&font=Raleway&language=1&logo=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fdakirby309%2Fsimply-styled%2F256%2FYouTube-icon.png&name=1&owner=1&theme=Dark)
+![[Banner]](https://socialify.git.ci/lunar-theme/spacetube/image?description=1&descriptionEditable=spacetube%20is%20a%20youtube%20theme%20inspired%20by%20space%20%F0%9F%9A%80&font=Raleway&language=1&logo=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fdakirby309%2Fsimply-styled%2F256%2FYouTube-icon.png&name=1&owner=1&theme=Dark)
 
 ## 🖼️ Preview
 
@@ -42,7 +42,7 @@ Dark mode is **required** for the theme to work.
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/azure-moon/spacetube/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/lunar-theme/spacetube/issues). 
 
 ## 🌟 Show your support
 
@@ -56,4 +56,4 @@ Colors are changable by editing the variables in the file.
 ## 📩 License
 
 Copyright © 2021 [sheepdev](https://sheepdev.xyz/)<br />
-This project is licensed under the [CC-BY-4.0](https://github.com/azure-moon/spacetube/blob/main/LICENSE) license.
+This project is licensed under the [CC-BY-4.0](https://github.com/lunar-theme/spacetube/blob/main/LICENSE) license.
