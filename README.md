@@ -13,7 +13,7 @@
 
 Dark mode is **required** for the theme to work.
 
-[Click here to install spacetube](https://github.com/lunar-theme/moontube/raw/main/moontube.user.css)
+[Click here to install spacetube](https://github.com/lunar-theme/spacetube/raw/main/spacetube.user.css)
 
 
 ## 🎨 Recommended extensions and styles
