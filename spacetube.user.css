@@ -14,15 +14,15 @@
 
 :root {
     --bg: #161616;
-    --bg-light: #121212;
+    --bg-light: #202020;
     --bg-lighter: #252525; 
     --bg-lightest: #303030;
-    --bg-transparent: #2e3340f1;
+    --bg-transparent: #161616f1;
     --accent: #3281ea;
     --accent-light: #0284e8;
     --accent-lighter: #02a3e8;
     --accent-lightest: #02bbe8;
-    --text-color: #d8dee9;
+    --text-color: #f3f3f3;
     --white: #d4d7db;
     --green: #a3be8c;
     --red: #B10C0C;
@@ -45,7 +45,7 @@ body {
 }
 
 #container.ytd-masthead {
-    background-color: var(--bg)
+    background-color: var(--bg-light)
 }
 
 #like-button {
@@ -73,13 +73,13 @@ ytd-subscription-notification-toggle-button-renderer #button.ytd-subscription-no
 }
 
 #container.ytd-searchbox {
-    background-color: var(--bg);
+    background-color: var(--bg-light);
     color: var(--text-color);
     border: none;
 }
 
 #search-icon-legacy.ytd-searchbox {
-    background-color: var(--bg)
+    background-color: var(--bg-light)
 }
 
 #logo-icon > svg > g > g:nth-child(1) > path:nth-child(1) {
@@ -494,7 +494,7 @@ ytd-button-renderer.style-suggestive[is-paper-button] tp-yt-paper-button.ytd-but
 }
 
 #header-section.ytd-donation-shelf-renderer, #donate-section.ytd-donation-shelf-renderer, #creator-messages-section.ytd-donation-shelf-renderer, #nonprofit-section.ytd-donation-shelf-renderer, #collapse-controls-section.ytd-donation-shelf-renderer {
-    background-color: var(--bg)
+    background-color: var(--bg-light)
 }
 
 #collapse-controls-section.ytd-donation-shelf-renderer, #creator-messages-section.ytd-donation-shelf-renderer, #nonprofit-section.ytd-donation-shelf-renderer, ytd-donation-shelf-renderer  {
@@ -1167,7 +1167,7 @@ yt-icon.ytd-pinned-comment-badge-renderer {
 }
 
 #voice-search-button.ytd-masthead {
-    background: var(--bg)
+    background: var(--bg-light)
 }
 
 ytd-searchbox[desktop-search-bar-big-tap-target] #search-icon-legacy.ytd-searchbox {
@@ -1230,5 +1230,27 @@ ytd-button-renderer yt-formatted-string.ytd-button-renderer, tp-yt-paper-button.
 
 .badge-style-type-collection.ytd-badge-supported-renderer, #matching-label.ytd-donation-shelf-renderer {
     color: var(--text-color);
+}
+
+ytd-toggle-button-renderer.style-text[is-icon-button] #text.ytd-toggle-button-renderer {
+    text-transform: lowercase;
+}
+
+.ytp-sb-text {
+    text-transform: lowercase;
+}
+
+#donate-section.ytd-donation-shelf-renderer {
+    border: none;
+}
+
+#collapse-controls-section {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#header-section.ytd-donation-shelf-renderer {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
 	}
 }
