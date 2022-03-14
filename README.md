@@ -1,6 +1,9 @@
-<h1 align="center">spacetube</h1>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/lunar-theme/lunar/main/assets/icon-rounded.png" width="80" />
+    <h2 align="center">Lunar for YouTube</h2>
+</p>
 
-![[Banner]](https://socialify.git.ci/lunar-theme/spacetube/image?description=1&descriptionEditable=spacetube%20is%20a%20youtube%20theme%20inspired%20by%20space%20%F0%9F%9A%80&font=Raleway&language=1&logo=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fdakirby309%2Fsimply-styled%2F256%2FYouTube-icon.png&name=1&owner=1&theme=Dark)
+<p align="center">🛰️  A space-inspired theme for YouTube</p>
 
 ## 🖼️  Gallery
 
@@ -13,7 +16,7 @@
 
 Dark mode is **required** for the theme to work.
 
-[Click here to install spacetube](https://github.com/lunar-theme/spacetube/raw/main/spacetube.user.css)
+[Click here to install spacetube](https://github.com/lunar-theme/youtube/raw/main/lunartube.user.css)
 
 
 ## 🎨 Recommended extensions and styles
@@ -29,16 +32,6 @@ Dark mode is **required** for the theme to work.
 
 ![Settings for Custom Progress Bar](./img/settings.png)
 
-
-## 👤 Author
-
-🐏 **sheep**
-
-* 🌐 Website: https://sheepdev.xyz
-* 📧 Email: [hi@sheepdev.xyz](mailto:hi@sheepdev.xyz)
-* 🐦 Twitter: [@imsheeeep](https://twitter.com/imsheeeep)
-* 💻 GitHub: [@sheeepdev](https://github.com/sheeepdev)
-* 💬 Discord: [sheep#2428](https://discord.com/users/429303151598895106)
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/lunar-theme/spacetube/issues). 
