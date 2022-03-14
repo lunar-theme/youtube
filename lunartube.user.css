@@ -1,13 +1,13 @@
 /* ==UserStyle==
-@name         spacetube
-@description  spacetube is a youtube theme inspired by space 🚀
-@namespace    https://github.com/lunar-theme/spacetube
-@homepageURL  https://github.com/lunar-theme/spacetube
-@supportURL   https://github.com/lunar-theme/spacetube/issues
-@updateURL    https://github.com/lunar-theme/spacetube/raw/main/spacetube.user.css
+@name         Lunar for YouTube
+@description  🛰️  A space-inspired theme for YouTube 
+@namespace    https://github.com/lunar-theme/youtube
+@homepageURL  https://github.com/lunar-theme/youtube
+@supportURL   https://github.com/lunar-theme/youtube/issues
+@updateURL    https://github.com/lunar-theme/youtube/raw/main/lunartube.user.css
 @author       sheep <hi@sheepdev.xyz> (https://sheepdev.xyz/)
-@version      2.1.0
-@license      CC-BY-4.0
+@version      2.2.0
+@license      GPL-3.0
 ==/UserStyle== */
 
 @-moz-document domain('youtube.com') {
