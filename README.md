@@ -7,7 +7,7 @@
 
 ## 🖼️  Gallery
 
-![Preview](./img/preview.png)
+![Preview](./assets/preview.png)
 
 ## ❗ Prerequisites
 [Stylus browser extension](https://github.com/openstyles/stylus#releases)
@@ -16,7 +16,7 @@
 
 Dark mode is **required** for the theme to work.
 
-[Click here to install spacetube](https://github.com/lunar-theme/youtube/raw/main/lunartube.user.css)
+[Click here to install spacetube](https://github.com/lunar-theme/youtube/raw/main/youtube.user.css)
 
 
 ## 🎨 Recommended extensions and styles
@@ -34,7 +34,7 @@ Dark mode is **required** for the theme to work.
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/lunar-theme/spacetube/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/lunar-theme/youtube/issues). 
 
 ## 🌟 Show your support
 
@@ -48,4 +48,4 @@ Colors are changable by editing the variables in the file.
 ## 📩 License
 
 Copyright © 2021 [sheepdev](https://sheepdev.xyz/)<br />
-This project is licensed under the [CC-BY-4.0](https://github.com/lunar-theme/spacetube/blob/main/LICENSE) license.
+This project is licensed under the [CC-BY-4.0](https://github.com/lunar-theme/youtube/blob/main/LICENSE) license.
