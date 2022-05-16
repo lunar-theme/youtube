@@ -16,8 +16,7 @@
 
 Dark mode is **required** for the theme to work.
 
-[Click here to install spacetube](https://github.com/lunar-theme/youtube/raw/main/youtube.user.css)
-
+<a href="https://raw.githubusercontent.com/lunar-theme/youtube/main/youutube.user.css"><img src="https://img.shields.io/badge/Install%20with-Stylus-%233281ea" alt="Install with Stylus"/></a>
 
 ## 🎨 Recommended extensions and styles
 
