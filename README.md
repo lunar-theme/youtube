@@ -16,7 +16,7 @@
 
 Dark mode is **required** for the theme to work.
 
-<a href="https://raw.githubusercontent.com/lunar-theme/youtube/main/youutube.user.css"><img src="https://img.shields.io/badge/Install%20with-Stylus-%233281ea" alt="Install with Stylus"/></a>
+<a href="https://raw.githubusercontent.com/lunar-theme/youtube/main/youtube.user.css"><img src="https://img.shields.io/badge/Install%20with-Stylus-%233281ea" alt="Install with Stylus"/></a>
 
 ## 🎨 Recommended extensions and styles
 
