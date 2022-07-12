@@ -242,10 +242,6 @@ ytd-live-chat-frame {
     background-color: var(--inner-core);
     color: var(--text);
 }
-
-yt-button-renderer.yt-notification-action-renderer > a > tp-yt-paper-button {
-	border-radius: 20px 0 0 20px;
-}
 	
 ytd-button-renderer.style-suggestive[is-paper-button]  {
     border-radius: 20px;
