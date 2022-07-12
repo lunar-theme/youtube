@@ -164,6 +164,16 @@ a.ytd-rich-metadata-renderer {
 ytd-thumbnail #thumbnail.ytd-thumbnail {
     border-radius: 20px;
 }
+	
+ytd-thumbnail-overlay-loading-preview-renderer.ytd-thumbnail {
+    width: 100%;
+    right: -4px;
+    bottom: -4px;
+}
+	
+ytd-thumbnail-overlay-loading-preview-renderer.ytd-thumbnail > span {
+	padding: 10px;		
+}
 
 ytd-thumbnail.ytd-rich-grid-media, ytd-thumbnail.ytd-rich-grid-media::before {
     border-radius: 20px;
@@ -233,12 +243,20 @@ ytd-live-chat-frame {
     color: var(--text);
 }
 
+yt-button-renderer.yt-notification-action-renderer > a > tp-yt-paper-button {
+	border-radius: 20px 0 0 20px;
+}
+	
 ytd-button-renderer.style-suggestive[is-paper-button]  {
     border-radius: 20px;
 }
 
 .fit.tp-yt-paper-dialog-scrollable, #top-bar.ytd-sponsorships-offer-renderer {
     background-color: var(--inner-core)
+}
+	
+ytd-toggle-button-renderer {
+	border-radius: 20px;		
 }
 
 yt-button-renderer #button.yt-button-renderer {
