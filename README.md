@@ -29,7 +29,7 @@ Dark mode is **required** for the theme to work.
 
   * Custom Color: ```#3281ea```
 
-![Settings for Custom Progress Bar](./img/settings.png)
+![Settings for Custom Progress Bar](./assets/settings.png)
 
 ## 🤝 Contributing
 
