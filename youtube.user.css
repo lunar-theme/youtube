@@ -251,7 +251,7 @@ ytd-button-renderer.style-suggestive[is-paper-button]  {
     background-color: var(--inner-core)
 }
 	
-ytd-toggle-button-renderer {
+ytd-toggle-button-renderer.ytd-video-preview {
 	border-radius: 20px;		
 }
 
